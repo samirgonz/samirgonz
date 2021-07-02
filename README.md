@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @samirgonz
-- 👀 I’m interested in cloud technologies, microservices, CI/CD, DevOps, containerization...
-- 🌱 I’m currently learning serverless computing..
-- 💞️ I’m looking to collaborate on CNCF projects
-- 📫 How to reach me samirgonz@gmail.com
+## Hi👋...  I’m Samir
+###### 👀 Cloud based technologies are my main interest, beside football.. :blush:
+###### 🌱 I’m currently focusing on serverless computing..
+###### 💞️ I’m looking to collaborate on CNCF projects
+###### 📫 samirgonz@gmail.com, reach out!
 
 <!---
 samirgonz/samirgonz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
